@@ -1,8 +1,7 @@
+
 testing line
 123
 456
-<<<<<<< HEAD
 commit test
-=======
 789.
->>>>>>> 838d631d6a35e8c15dcedf261da15b0392494be8
+
